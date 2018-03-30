@@ -1,1 +1,1 @@
-awk -F ":" '{print $1,  $3, $6}' /etc/passwd
+awk -F ":" '{print $1,  $3, $7}' /etc/passwd
